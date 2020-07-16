@@ -15,4 +15,4 @@ CSVs include data from 1880 through 2014 on both boys and girls names.
 * <b>getTotalBirthsRankedHigher</b> - returns an integer, the total number of births of those names with the same gender and same year who are ranked higher than name.
   * For example, if getTotalBirthsRankedHigher accesses the "yob2012short.csv" file with name set to “Ethan”, gender set to “M”, and year set to 2012, then this method should return 15, since Jacob has 8 births and Mason has 7 births, and those are the only two ranked higher than Ethan.
 
-linke to exercise: https://www.coursera.org/learn/java-programming/supplement/VeM7L/miniproject-exercise-guide
+link to exercise: https://www.coursera.org/learn/java-programming/supplement/VeM7L/miniproject-exercise-guide
