@@ -3,7 +3,7 @@ Java program to analyze data of baby names stored in CSV files.
 
 CSVs include data from 1880 through 2014 on both boys and girls names.
 
-BabyBirths class includes the following methods:
+<b>BabyBirths</b> class includes the following methods:
 * totalBirths - prints the totals of birthday and names by category
 * getRank -  returns the rank of the name in the file for the given gender, where rank 1 is the name with the largest number of births. If the name is not in the file, then -1 is returned.
   * For example, in the file "yob2012short.csv", given the name Mason, the year 2012 and the gender ‘M’, the number returned is 2, as Mason is the boys name with the second highest number of births. Given the name Mason, the year 2012 and the gender ‘F’, the number returned is -1 as Mason does not appear with an F in that file.
